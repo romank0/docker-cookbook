@@ -1,4 +1,20 @@
 
+## Java
+
+```
+docker run -it --rm dockerfile/java:oracle-java8 java -version
+```
+
+Versions:
+- latest (default): openjdk-7-jre
+- openjdk-6-jdk
+- openjdk-6-jre
+- openjdk-7-jdk
+- openjdk-7-jre
+- oracle-java6
+- oracle-java7
+- oracle-java8 
+
 ## Postgres
 
 Run
